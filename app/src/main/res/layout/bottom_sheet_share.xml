@@ -88,17 +88,12 @@
                     android:textSize="16sp" />
 
                 <com.google.android.material.button.MaterialButton
+                    style="@style/CopyButtonInactive"
                     android:id="@+id/btnCopyQuote"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="24dp"
-                    android:backgroundTint="#FFD9DD"
-                    android:text="Copy"
-                    android:textAllCaps="false"
-                    android:textColor="#EA436B"
-                    app:cornerRadius="18dp"
-                    app:strokeColor="#847374"
-                    app:strokeWidth="1dp" />
+                    android:text="Copy" />
 
             </LinearLayout>
 
