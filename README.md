@@ -2,10 +2,7 @@
 
 ## 🎥 Preview
 
-<img height="600" width="330" src="https://user-images.githubusercontent.com/76530270/179353042-d0563caf-e445-402b-9008-2d0f5dfac69d.gif" >
-
-
-Uploading Screen Recording 2024-01-24 at 4.06.13 PM.mov…
+https://github.com/MohitGupta121/NewsDo/assets/76530270/ebd581e5-2e54-4f9d-bdf8-0639a406eb7e
 
 
 
@@ -30,9 +27,8 @@ Uploading Screen Recording 2024-01-24 at 4.06.13 PM.mov…
     └── utils               # Utility Classes / Kotlin extensions
    
        
-## Architecture
-This app uses [***MVC (Model View Controller)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
 
-<p align="center">
-  <img src="https://miro.medium.com/max/914/1*g9R0NQ6yooBwacFo40ZL_g.png" >
-</p>
+## Architecture
+This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
+
+![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
