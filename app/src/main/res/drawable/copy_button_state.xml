@@ -1,0 +1,31 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Pressed state -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#FFD9DD" />
+            <stroke
+                android:width="1dp"
+                android:color="#EA436B" />
+            <corners android:radius="18dp" />
+        </shape>
+        <item android:drawable="@drawable/copy_button_pressed" />
+    </item>
+
+    <!-- Focused state -->
+    <item android:state_focused="true">
+        <!-- Define attributes for focused state -->
+    </item>
+
+    <!-- Default state -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFD9DD" />
+            <stroke
+                android:width="1dp"
+                android:color="#847374" />
+            <corners android:radius="18dp" />
+        </shape>
+    </item>
+
+</selector>
